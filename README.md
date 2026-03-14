@@ -1,4 +1,4 @@
-# todo - keep track of all your project's todos
+# Todo - keep track of all your project's todos
 
 `todo` is a Ruby script inspired by [try](https://github.com/tobi/try).
 
@@ -11,12 +11,12 @@ What day is it today?
 `todo` generates an interactive report, in a simple TUI, of all your TODOs, grouping them by project, ranking by urgency, and highlighting deadlines.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - [Ruby](https://www.ruby-lang.org)
 
 
-##  🚀 Quick Start
+## Quick Start
 
 ### Clone & setup
 
@@ -39,6 +39,6 @@ TODO_PATH=<your-code-directory> ./todo.rb
 ```
 
 
-## ⚖️ Licensing
+## Licensing
 
 [MIT License](https://spdx.org/licenses/MIT.html), see `LICENSE`
