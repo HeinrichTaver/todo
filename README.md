@@ -14,6 +14,7 @@ What day is it today?
 ## Tech Stack
 
 - [Ruby](https://www.ruby-lang.org)
+- [Mise](https://mise.jdx.dev)
 
 
 ## Quick Start
@@ -35,6 +36,7 @@ mise install
 ### Using `todo`
 
 ```sh
+bundle install
 TODO_PATH=<your-code-directory> ./todo.rb
 ```
 
@@ -42,3 +44,10 @@ TODO_PATH=<your-code-directory> ./todo.rb
 ## Licensing
 
 [MIT License](https://spdx.org/licenses/MIT.html), see `LICENSE`
+
+
+## Acknowledgments
+
+This utility makes use of the following open-source libraries:
+
+- [Charm Ruby](https://github.com/stars/marcoroth/lists/charm-ruby)
